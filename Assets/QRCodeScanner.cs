@@ -26,7 +26,7 @@ public class QRCodeScanner : MonoBehaviour
     }
 
     void Update() {
-        //UpdateCameraRender();
+        UpdateCameraRender();
     }
 
     private void SetUpCamera() {
